@@ -188,13 +188,13 @@ $LNG['abusive_comment'] = 'Abusive Comment';
 $LNG['copyright_infringement'] = 'Copyright Infringement';
 $LNG['claimant'] = 'Claimant';
 $LNG['infringing_material'] = 'Infringing Material';
-$LNG['reported_by'] = 'Reported by';
-$LNG['delete_track'] = 'Delete Track';
-$LNG['delete_comment'] = 'Delete Comment';
-$LNG['delete_report'] = 'Delete Report';
-$LNG['suspend_track'] = 'Suspend Track';
+$LNG['reported_by'] = 'Reportado por';
+$LNG['delete_track'] = 'Eliminar pista';
+$LNG['delete_comment'] = 'Eliminar comentario';
+$LNG['delete_report'] = 'Eliminar reporte';
+$LNG['suspend_track'] = 'Suspendender pista';
 $LNG['restore_track'] = 'Restore Track';
-$LNG['view_comment'] = 'View Comment';
+$LNG['view_comment'] = 'Ver comentario';
 
 // SIDEBAR //
 $LNG['filter_notifications'] = 'Filtrar notificaciones';
