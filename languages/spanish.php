@@ -144,18 +144,18 @@ $LNG['track_hidden_1'] = 'Lo siento, pero esta pista es privada, solo el autor d
 $LNG['track_hidden_2'] = 'Lo siento, but this author\'s profile settings only allows his followers to view this track.';
 $LNG['track_hidden_1_ttl'] = $LNG['track_hidden_2_ttl'] = 'Pista privada';
 $LNG['track_suspended_1'] = 'Lo siento, but this track has been disabled due to a copyright infringement claim. If you think this was an error, please contact us.';
-$LNG['track_suspended_1_ttl'] = 'Disabled track';
+$LNG['track_suspended_1_ttl'] = 'Pista desactivada';
 $LNG['playlist_hidden'] = 'Lo siento, but this playlist is private, only the author of the playlist can see it.';
 $LNG['playlist_hidden_ttl'] = 'Private Playlist';
-$LNG['comment'] = 'Comment';
+$LNG['comment'] = 'Comentar';
 $LNG['share'] = 'Compartir';
 $LNG['autoplay'] = 'Autoplay';
 $LNG['add_to'] = 'Add to';
 $LNG['buy'] = 'Buy';
 $LNG['download'] = 'Download';
-$LNG['new_playlist'] = 'Create new playlist';
-$LNG['cancel'] = 'Cancel';
-$LNG['close'] = 'Close';
+$LNG['new_playlist'] = 'Crear una nueva playlist';
+$LNG['cancel'] = 'Cancelar';
+$LNG['close'] = 'Cerrar';
 
 // REPORT //
 $LNG['1_not_exists'] = 'The reported track does not exist.';
@@ -176,7 +176,7 @@ $LNG['suspended_track'] = 'The track has been suspended.';
 $LNG['restored_track'] = 'The track has been restored.';
 $LNG['safe_report'] = 'The report has been marked as safe.';
 $LNG['rci'] = 'Report copyright infringement';
-$LNG['report_track'] = 'Report track';
+$LNG['report_track'] = 'Reportar pista';
 $LNG['signature'] = 'Signature';
 $LNG['sub_signature'] = 'Typing your full name in this box acts as your electronic signature';
 $LNG['report_description'] = 'Please identify, in as much detail as possible, the copyright work(s) that you believe are being infringed';
@@ -193,7 +193,7 @@ $LNG['delete_track'] = 'Eliminar pista';
 $LNG['delete_comment'] = 'Eliminar comentario';
 $LNG['delete_report'] = 'Eliminar reporte';
 $LNG['suspend_track'] = 'Suspendender pista';
-$LNG['restore_track'] = 'Restore Track';
+$LNG['restore_track'] = 'Restaurar pista';
 $LNG['view_comment'] = 'Ver comentario';
 
 // SIDEBAR //
@@ -218,7 +218,7 @@ $LNG['sidebar_trending'] = 'Trending Tags';
 $LNG['sidebar_friends_activity'] = 'Friends Activity';
 $LNG['edit_track'] = 'Editar pista';
 $LNG['edit_playlist'] = 'Edit Playlist';
-$LNG['go_back'] = 'Go Back';
+$LNG['go_back'] = 'Regresar';
 
 // MESSAGES / CHAT //
 $LNG['lonely_here'] = 'It\'s lonely here, how about making some friends?';
