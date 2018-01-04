@@ -222,13 +222,13 @@ $LNG['go_back'] = 'Go Back';
 
 // MESSAGES / CHAT //
 $LNG['lonely_here'] = 'It\'s lonely here, how about making some friends?';
-$LNG['write_message'] = 'Write a message...';
-$LNG['chat_too_long'] = 'Sorry, but the maximum characters allowed per chat message is <strong>%s</strong>.';
+$LNG['write_message'] = 'Esccribir un mensaje...';
+$LNG['chat_too_long'] = 'Lo siento, pero el m&aacute;ximo n&uacute;mero de caracteres permitidos por mensaje es: <strong>%s</strong>.';
 $LNG['blocked_by'] = 'The message could not be sent. <strong>%s</strong> blocked you.';
 $LNG['blocked_user'] = 'The message could not be sent. You\'ve blocked <strong>%s</strong>.';
 $LNG['chat_self'] = 'Sorry but we cannot deliver chat messages to yourself.';
 $LNG['chat_no_user'] = 'You must select a user to chat with.';
-$LNG['view_more_conversations'] = 'View more conversations';
+$LNG['view_more_conversations'] = 'Ver m&aacute;s conversaciones';
 $LNG['block'] = 'Bloquear';
 $LNG['unblock'] = 'Desbloquear';
 $LNG['conversation'] = 'Conversaci&oacute;n';
@@ -239,7 +239,7 @@ $LNG['send_message'] = 'Enviar mensaje';
 $LNG['upload_track'] = 'Upload Track';
 $LNG['upload_image'] = 'Upload Image';
 $LNG['track_selected'] = 'Track selected';
-$LNG['image_selected'] = 'Image Selected';
+$LNG['image_selected'] = 'Imagen seleccionada';
 
 $LNG['0_upload_err'] = 'Your account has exceeded the total upload size allowed. The <strong>%s</strong> track was not uploaded';
 $LNG['1_upload_err'] = 'No track selected';
