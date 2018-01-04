@@ -86,7 +86,7 @@ $LNG['report_not_exist'] = 'The selected Report ID does not exist.';
 $LNG['theme_changed'] = 'Tema cambiado';
 $LNG['notif_saved'] = 'Notificaciones cambiadas';
 $LNG['notif_success_saved'] = 'Las notificaciones han sido actualizadas correctamente.';
-$LNG['password_reset'] = 'You have successfully reset your password. You can now log-in using the new password.';
+$LNG['password_reset'] = 'Su contrase&ntilde;a fue restaurada correctamente. You can now log-in using the new password.';
 
 // MAIL CONTENT //
 $LNG['welcome_mail'] = 'Bienvenoido a %s';
@@ -149,7 +149,7 @@ $LNG['playlist_hidden'] = 'Lo siento, pero este es un playlist privado, solo el 
 $LNG['playlist_hidden_ttl'] = 'Playlist privado';
 $LNG['comment'] = 'Comentar';
 $LNG['share'] = 'Compartir';
-$LNG['autoplay'] = 'Autoplay';
+$LNG['autoplay'] = 'Auto reproducir';
 $LNG['add_to'] = 'Agregar a';
 $LNG['buy'] = 'Comprar';
 $LNG['download'] = 'Descargar';
