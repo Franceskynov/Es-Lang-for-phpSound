@@ -198,15 +198,15 @@ $LNG['view_comment'] = 'Ver comentario';
 
 // SIDEBAR //
 $LNG['filter_notifications'] = 'Filtrar notificaciones';
-$LNG['archive'] = 'Archives';
+$LNG['archive'] = 'Archivos';
 $LNG['statistics'] = 'Estad&iacute;sticas';
-$LNG['all_notifications'] = 'All notifications';
+$LNG['all_notifications'] = 'Todas las notificaciones';
 $LNG['all_time'] = 'All time';
 $LNG['subscriptions'] = 'Following';
 $LNG['subscribers'] = 'Followers';
-$LNG['welcome'] = 'Welcome';
-$LNG['sidebar_people'] = 'People';
-$LNG['sidebar_tracks'] = 'Tracks';
+$LNG['welcome'] = 'Bien venido';
+$LNG['sidebar_people'] = 'Personas';
+$LNG['sidebar_tracks'] = 'Pistas';
 $LNG['sidebar_playlists'] = 'Playlists';
 $LNG['online_friends'] = 'Online Friends';
 $LNG['sidebar_likes'] = 'Likes';
@@ -216,7 +216,7 @@ $LNG['sidebar_chats'] = 'Chats';
 $LNG['sidebar_suggestions'] = 'Friends Suggestions';
 $LNG['sidebar_trending'] = 'Trending Tags';
 $LNG['sidebar_friends_activity'] = 'Friends Activity';
-$LNG['edit_track'] = 'Edit Track';
+$LNG['edit_track'] = 'Editar pista';
 $LNG['edit_playlist'] = 'Edit Playlist';
 $LNG['go_back'] = 'Go Back';
 
