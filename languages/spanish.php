@@ -229,11 +229,11 @@ $LNG['blocked_user'] = 'The message could not be sent. You\'ve blocked <strong>%
 $LNG['chat_self'] = 'Sorry but we cannot deliver chat messages to yourself.';
 $LNG['chat_no_user'] = 'You must select a user to chat with.';
 $LNG['view_more_conversations'] = 'View more conversations';
-$LNG['block'] = 'Block';
-$LNG['unblock'] = 'Unblock';
-$LNG['conversation'] = 'Conversation';
+$LNG['block'] = 'Bloquear';
+$LNG['unblock'] = 'Desbloquear';
+$LNG['conversation'] = 'Conversaci&oacute;n';
 $LNG['start_conversation'] = 'You can start a conversation by choosing a person from your friends list.';
-$LNG['send_message'] = 'Send Message';
+$LNG['send_message'] = 'Enviar mensaje';
 
 // UPLOAD / EDIT //
 $LNG['upload_track'] = 'Upload Track';
