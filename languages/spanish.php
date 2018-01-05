@@ -95,7 +95,7 @@ $LNG['email_footer_gen'] = '<br /><br /><span style="color: #aaa;">Copyright &co
 $LNG['email_hello'] = 'Hola <strong>%s</strong>,<br /><br />';
 $LNG['user_created'] = 'Gracias por unirse a <strong>%s</strong><br /><br />Su nombre de usuario: <strong>%s</strong><br />Su contrase&ntilde;a: <strong>%s</strong><br /><br />Tu puedes iniciar sesi&oacute; en: <a href="%s" target="_blank">%s</a>'.$LNG['email_footer_gen'];
 $LNG['recover_mail'] = 'Contrase&ntilde;a recuperada';
-$LNG['recover_content'] = 'A password recover was requested, if you didn\'t make this action please ignore this email. <br /><br />Your Username: <strong>%s</strong><br />Your Reset Key: <strong>%s</strong><br /><br />You can reset your password by accessing the following link: <a href="%s" target="_blank">%s</a>'.$LNG['email_footer_gen'];
+$LNG['recover_content'] = 'Se ha iniciado una petici&oacute;n de recuperaci&oacute;n de contrase&ntilde;a, si tu no has hecho esto por favor ignora este correo electr&oacute;nico. <br /><br /> Su nombre de usuario: <strong>%s</strong><br />Su clave de restauraci&oacute;n: <strong>%s</strong><br /><br /> Tu puedes restaurar tu contrase&ntilde;a accediendo al siguiente link: <a href="%s" target="_blank">%s</a>'.$LNG['email_footer_gen'];
 $LNG['ttl_comment_email'] = '%s commented on your track';
 $LNG['comment_email'] = $LNG['email_hello'].'<strong><a href="%s">%s</a></strong> has commented on your <strong><a href="%s">track.</a></strong>'.$LNG['email_footer_unsub'];
 $LNG['ttl_like_email'] = '%s liked your track';
@@ -117,12 +117,12 @@ $LNG['theme_install'] = 'Para instalar un nuevo tema, upload it on the <strong>t
 $LNG['language_install'] = 'Para instalar un nuevo lenguaje, cargarlo en la carpeta de: <strong>languages</strong>';
 $LNG['theme_author_homepage'] = 'Visitar la p&aacute;gina del autor';
 $LNG['theme_version'] = 'Version';
-$LNG['theme_active'] = 'Active';
+$LNG['theme_active'] = 'Activar';
 $LNG['theme_activate'] = 'Activar';
 $LNG['by'] = 'Por';
 
 // STREAM //
-$LNG['welcome_stream_ttl'] = 'Welcome to your Stream';
+$LNG['welcome_stream_ttl'] = 'Bienvenido a su Stream';
 $LNG['welcome_stream'] = 'Todas las pistas de sus amigos deber&iacute;an aparecer en esta p&aacute;gina, empiece por hacer nuevos amigos.';
 $LNG['leave_comment'] = 'Dejar un comentario...';
 $LNG['post'] = 'Post';
@@ -139,7 +139,7 @@ $LNG['load_more'] = 'Cargar m&aacute;s';
 $LNG['view_more'] = 'Ver m&aacute;s';
 $LNG['comment_wrong'] = 'Algo va mal, por favor refresque la p&aacute;gina e intente de nuevo.';
 $LNG['comment_too_long'] = 'Lo siento, pero el m&aacute;ximo de caracteres permitido por comentario es: <strong>%s</strong>.';
-$LNG['comment_error'] = 'Lo siento, we couldn\'t post the comment, please refresh the page and try again.';
+$LNG['comment_error'] = 'Lo siento, no podemos post el comentario, Por favor refresque la p&aacute;gina e intente de nuevo.';
 $LNG['track_hidden_1'] = 'Lo siento, pero esta pista es privada, solo el autor de esta pista la puede ver.';
 $LNG['track_hidden_2'] = 'Lo siento, pero solo al autor del perfil es permitido ver los seguidores de esta pista.';
 $LNG['track_hidden_1_ttl'] = $LNG['track_hidden_2_ttl'] = 'Pista privada';
@@ -158,9 +158,9 @@ $LNG['cancel'] = 'Cancelar';
 $LNG['close'] = 'Cerrar';
 
 // REPORT //
-$LNG['1_not_exists'] = 'The reported track does not exist.';
-$LNG['0_not_exists'] = 'The reported comment does not exist.';
-$LNG['1_already_reported'] = 'This track has already been reported and it will be reviewed in the shortest time, thank you.';
+$LNG['1_not_exists'] = 'La pista reportada no existe.';
+$LNG['0_not_exists'] = 'El comentario reportado no existe.';
+$LNG['1_already_reported'] = 'Esta pista ha sido reportada y ser&aacute; revisada en el menor tiempo posible, Gracias.';
 $LNG['0_already_reported'] = 'This comment has already been reported and it will be reviewed in the shortest time, thank you.';
 $LNG['1_is_safe'] = 'This track is marked as <strong>safe</strong> by an administrator, thank you for your feedback.';
 $LNG['0_is_safe'] = 'This comment is marked as <strong>safe</strong> by an administrator, thank you for your feedback.';
