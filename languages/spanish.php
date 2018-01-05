@@ -76,7 +76,7 @@ $LNG['password_too_short'] = 'La contrase&ntilde;a debe de contener al menos <st
 $LNG['password_not_match'] = 'La contrase&ntilde;as no son iguales.';
 $LNG['username_not_found'] = 'No pudimos encontrar el nombre de archivo que seleccion&oacute;.';
 $LNG['userkey_not_found'] = 'El nombre de usuario o clave de restauraci&oacute;n son incorrectos, Aseg&uacute;rese que los datos ingresados son incorrectos.';
-$LNG['email_reset'] = 'An email containing password reset instructions has been sent. Please allow us up to 24 hours to deliver the message, also check your Spam box if you can\'t find in your Inbox.';
+$LNG['email_reset'] = 'El correo electr&oacute;nico contiene las instrucciones para restaurar su contrase&ntilde;a. Please allow us up to 24 hours to deliver the message, also check your Spam box if you can\'t find in your Inbox.';
 $LNG['user_deleted'] = 'Usuario eliminado';
 $LNG['user_has_been_deleted'] = 'El usuario <strong>%s</strong> ha sido eliminado.';
 $LNG['user_not_deleted'] = 'The selected user (ID: %s) could not be deleted.';
@@ -89,7 +89,7 @@ $LNG['notif_success_saved'] = 'Las notificaciones han sido actualizadas correcta
 $LNG['password_reset'] = 'Su contrase&ntilde;a fue restaurada correctamente. You can now log-in using the new password.';
 
 // MAIL CONTENT //
-$LNG['welcome_mail'] = 'Bienvenoido a %s';
+$LNG['welcome_mail'] = 'Bien venid@ a %s';
 $LNG['email_footer_unsub'] = '<br /><br /><span style="color: #aaa;">Este correo electr&oacute;nico ha sido enviado automaticamente, if you don\'t want to receive these type of emails from <strong>%s</strong> in the future, please <a href="%s">Unsubscribe</a>.</span>';
 $LNG['email_footer_gen'] = '<br /><br /><span style="color: #aaa;">Copyright &copy; '.date('Y').' <a href="%s">%s</a>. Todos los derechos reservados.';
 $LNG['email_hello'] = 'Hola <strong>%s</strong>,<br /><br />';
