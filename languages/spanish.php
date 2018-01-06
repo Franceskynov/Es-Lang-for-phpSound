@@ -255,8 +255,8 @@ $LNG['10_upload_err'] = 'El titulo de la pista no puede estar vacio';
 $LNG['11_upload_err'] = 'The track title should be less than %s characters';
 $LNG['12_upload_err'] = 'The name of a tag should be less than %s characters';
 $LNG['track_updated'] = 'Track has been successfully updated';
-$LNG['view_track'] = 'View Track';
-$LNG['congratulations'] = 'Congratulations';
+$LNG['view_track'] = 'Ver pista';
+$LNG['congratulations'] = 'Filicitaciones';
 $LNG['track_uploaded'] = 'Your track <strong><a href="%s" rel="loadpage">%s</a></strong> has been successfully uploaded';
 $LNG['or'] = 'or';
 
