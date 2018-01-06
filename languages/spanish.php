@@ -236,9 +236,9 @@ $LNG['start_conversation'] = 'Tu puedes iniciar una conversacion seleccionando u
 $LNG['send_message'] = 'Enviar mensaje';
 
 // UPLOAD / EDIT //
-$LNG['upload_track'] = 'Upload Track';
-$LNG['upload_image'] = 'Upload Image';
-$LNG['track_selected'] = 'Track selected';
+$LNG['upload_track'] = 'Cargar una pista';
+$LNG['upload_image'] = 'Cargar una imagen';
+$LNG['track_selected'] = 'Pista seleccionada';
 $LNG['image_selected'] = 'Imagen seleccionada';
 
 $LNG['0_upload_err'] = 'Your account has exceeded the total upload size allowed. The <strong>%s</strong> track was not uploaded';
