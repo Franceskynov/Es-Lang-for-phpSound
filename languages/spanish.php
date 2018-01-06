@@ -201,7 +201,7 @@ $LNG['filter_notifications'] = 'Filtrar notificaciones';
 $LNG['archive'] = 'Archivos';
 $LNG['statistics'] = 'Estad&iacute;sticas';
 $LNG['all_notifications'] = 'Todas las notificaciones';
-$LNG['all_time'] = 'All time';
+$LNG['all_time'] = 'Todo el tiempo';
 $LNG['subscriptions'] = 'Following';
 $LNG['subscribers'] = 'Followers';
 $LNG['welcome'] = 'Bien venido';
@@ -213,26 +213,26 @@ $LNG['sidebar_likes'] = 'Likes';
 $LNG['sidebar_comments'] = 'Comentarios';
 $LNG['sidebar_friendships'] = 'Friendships';
 $LNG['sidebar_chats'] = 'Chats';
-$LNG['sidebar_suggestions'] = 'Friends Suggestions';
+$LNG['sidebar_suggestions'] = 'Sugerencias de los amigos';
 $LNG['sidebar_trending'] = 'Trending Tags';
-$LNG['sidebar_friends_activity'] = 'Friends Activity';
+$LNG['sidebar_friends_activity'] = 'Actividades de los migos';
 $LNG['edit_track'] = 'Editar pista';
 $LNG['edit_playlist'] = 'Edit Playlist';
 $LNG['go_back'] = 'Regresar';
 
 // MESSAGES / CHAT //
 $LNG['lonely_here'] = 'It\'s lonely here, how about making some friends?';
-$LNG['write_message'] = 'Esccribir un mensaje...';
+$LNG['write_message'] = 'Escribir un mensaje...';
 $LNG['chat_too_long'] = 'Lo siento, pero el m&aacute;ximo n&uacute;mero de caracteres permitidos por mensaje es: <strong>%s</strong>.';
-$LNG['blocked_by'] = 'The message could not be sent. <strong>%s</strong> blocked you.';
-$LNG['blocked_user'] = 'The message could not be sent. You\'ve blocked <strong>%s</strong>.';
-$LNG['chat_self'] = 'Sorry but we cannot deliver chat messages to yourself.';
-$LNG['chat_no_user'] = 'You must select a user to chat with.';
+$LNG['blocked_by'] = 'El mensaje no fue enviado. Bloqueado por <strong>%s</strong> .';
+$LNG['blocked_user'] = 'El mensaje no fue enviado. Usted ha bloqueado <strong>%s</strong>.';
+$LNG['chat_self'] = 'Lo siento pero no puedes enviarte mensajes a ti mismo.';
+$LNG['chat_no_user'] = 'Debe de seleccionar un usuario con quien chatear.';
 $LNG['view_more_conversations'] = 'Ver m&aacute;s conversaciones';
 $LNG['block'] = 'Bloquear';
 $LNG['unblock'] = 'Desbloquear';
 $LNG['conversation'] = 'Conversaci&oacute;n';
-$LNG['start_conversation'] = 'You can start a conversation by choosing a person from your friends list.';
+$LNG['start_conversation'] = 'Tu puedes iniciar una conversacion seleccionando una persona de la lista de sus amigos.';
 $LNG['send_message'] = 'Enviar mensaje';
 
 // UPLOAD / EDIT //
