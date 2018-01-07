@@ -364,22 +364,22 @@ $LNG['sub_lastfm'] = 'El identificador del perfil en Last.fm.';
 $LNG['ttl_description'] = 'Descripcion';
 $LNG['sub_description'] = 'Descripcion del perfil (160 characteres o menos)';
 
-$LNG['ttl_upload_avatar'] = 'Upload the selected profile image';
+$LNG['ttl_upload_avatar'] = 'Cargar la imagen de perfil seleccionada';
 $LNG['ttl_delete_avatar'] = 'Eliminar la actual imagen de perfil';
 
 $LNG['opt_public'] = 'P&uacute;blico';
 $LNG['opt_private'] = 'Privado`';
 $LNG['opt_semi_private'] = 'Solo es permitido a los suscriptores';
 
-$LNG['opt_offline_off'] = 'Online (when available)';
-$LNG['opt_offline_on'] = 'Always Offline';
+$LNG['opt_offline_off'] = 'En linea (Cuando es permitido)';
+$LNG['opt_offline_on'] = 'Todo el tiempo fuera de linea';
 
 $LNG['ttl_new_password'] = 'Nueva contrase&ntilde;a';
 $LNG['sub_new_password'] = 'Enter a new password (at least 6 characters)';
 $LNG['ttl_repeat_password'] = 'Repetir contrase&ntilde;a';
 $LNG['sub_repeat_password'] = 'Repetir la nueva contrase&ntilde;a';
 $LNG['ttl_current_password'] = 'Actual contrase&ntilde;a';
-$LNG['sub_current_password'] = 'Enter your current password';
+$LNG['sub_current_password'] = 'Ingrese su actual contrase&ntilde;a';
 $LNG['save_changes'] = 'Salvar los cambios';
 $LNG['ttl_upload_photo'] = 'Cargar una fotograf&iacute;a';
 $LNG['ttl_upload_cover'] = 'Upload Cover';
