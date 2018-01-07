@@ -290,12 +290,12 @@ $LNG['user_menu_notifications'] = 'Notificaciones';
 $LNG['user_menu_social'] = 'Social';
 $LNG['user_menu_plan'] = 'Account Plan';
 $LNG['user_menu_blocked'] = $LNG['user_ttl_blocked'] = 'Usuarios bloqueados';
-$LNG['user_menu_delete'] = $LNG['user_ttl_delete'] = 'Delete Account';
+$LNG['user_menu_delete'] = $LNG['user_ttl_delete'] = 'Borrar cuenta';
 
-$LNG['user_ttl_general'] = 'General Settings';
-$LNG['user_ttl_security'] = 'Password Settings';
-$LNG['user_ttl_avatar'] = 'Profile Settings';
-$LNG['user_ttl_notifications'] = 'Notifications Settings';
+$LNG['user_ttl_general'] = 'Configuraciones generales';
+$LNG['user_ttl_security'] = 'Configuracion de contrase&ntilde;a';
+$LNG['user_ttl_avatar'] = 'configuracion del perfil';
+$LNG['user_ttl_notifications'] = 'Configuracion de las notificaciones';
 $LNG['user_ttl_social'] = 'Social Networks Profiles';
 $LNG['user_ttl_plan'] = 'Account Plan';
 
