@@ -919,9 +919,9 @@ $LNG['pending'] = 'Pendiente';
 $LNG['suspended'] = 'Suspendida';
 $LNG['failed'] = 'Ha fallado';
 $LNG['denied'] = 'Denegado';
-$LNG['promote'] = 'Promote';
-$LNG['promoted'] = 'The account has been promoted to the Pro Status.';
-$LNG['promote_info'] = 'Promote this account to the Pro Status';
+$LNG['promote'] = 'Promover';
+$LNG['promoted'] = 'La cuenta ha sido promovida a estatus profesional.';
+$LNG['promote_info'] = 'Promover esta cuenta a estado profesional';
 
 // MANAGE PAYMENTS //
 $LNG['amount'] = 'Cantidad';
@@ -957,11 +957,11 @@ $LNG['pages'] = 'P&aacute;ginas';
 $LNG['report'] = 'Reportar';
 $LNG['stats'] = 'Estad&iacute;sticas';
 $LNG['author'] = 'Autor';
-$LNG['latest_music'] = 'Latest Music';
-$LNG['popular_music'] = 'Popular Music';
+$LNG['latest_music'] = 'Lo ultimo en musica';
+$LNG['popular_music'] = 'Musica popular';
 $LNG['liked_music'] = 'Liked Music';
 $LNG['go_pro'] = 'Go Pro';
-$LNG['edit'] = 'Edit';
+$LNG['edit'] = 'Editar';
 $LNG['shuffle'] = 'Mesclar';
 $LNG['upload'] = 'Cargar';
 $LNG['features'] = 'Funciones';
