@@ -266,16 +266,16 @@ $LNG['metadata'] = 'Metadatos';
 $LNG['permissions'] = 'Permisos';
 $LNG['buy_link'] = 'Link de compra';
 $LNG['release_date'] = 'Fecha de liberacion';
-$LNG['tags'] = 'Tags';
-$LNG['edit_tags'] = 'separated by comma, including genres';
-$LNG['visibility'] = 'Visibility';
-$LNG['allow_downloads'] = 'Allow downloads';
-$LNG['record_label'] = 'Record label';
-$LNG['all_rights'] = 'All rights reserved';
+$LNG['tags'] = 'Etiquetas';
+$LNG['edit_tags'] = 'Incluya los generos, separados por comas';
+$LNG['visibility'] = 'Visibilidad';
+$LNG['allow_downloads'] = 'Descargas permitidas';
+$LNG['record_label'] = 'Etiqueta de gravacion';
+$LNG['all_rights'] = 'Todos los derechos reservados';
 $LNG['creative_commons'] = 'Creative Commons';
-$LNG['license_at'] = 'Attribution';
-$LNG['license_nc'] = 'Noncommercial';
-$LNG['license_nd'] = 'No derivative works';
+$LNG['license_at'] = 'Atribucion';
+$LNG['license_nc'] = 'No comercial';
+$LNG['license_nd'] = 'No trabajos derivados';
 $LNG['license_sa'] = 'Share Alike';
 $LNG['license_at_desc'] = 'You let others copy, distribute, display, and perform your copyrighted work - and derivative works based upon it - but only if they give credit the way you request.';
 $LNG['license_nc_desc'] = 'You let others copy, distribute, display, and perform your work - and derivative works based upon it - but for noncommercial purposes only.';
@@ -284,12 +284,12 @@ $LNG['license_sa_desc'] = 'You allow others to distribute derivative works only 
 
 // USER PANEL //
 $LNG['user_menu_general'] = 'General';
-$LNG['user_menu_security'] = 'Password';
-$LNG['user_menu_avatar'] = 'Profile';
-$LNG['user_menu_notifications'] = 'Notifications';
+$LNG['user_menu_security'] = 'Contrase&ntilde;a';
+$LNG['user_menu_avatar'] = 'Perfil';
+$LNG['user_menu_notifications'] = 'Notificaciones';
 $LNG['user_menu_social'] = 'Social';
 $LNG['user_menu_plan'] = 'Account Plan';
-$LNG['user_menu_blocked'] = $LNG['user_ttl_blocked'] = 'Blocked Users';
+$LNG['user_menu_blocked'] = $LNG['user_ttl_blocked'] = 'Usuarios bloqueados';
 $LNG['user_menu_delete'] = $LNG['user_ttl_delete'] = 'Delete Account';
 
 $LNG['user_ttl_general'] = 'General Settings';
