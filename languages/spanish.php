@@ -307,32 +307,32 @@ $LNG['user_desc_notifications'] = 'Change notifications settings.';
 $LNG['blocked_desc'] = 'Blocked persons can no longer contact you trough messages.';
 $LNG['delete_acc_desc'] = 'Your account will be permanently deleted along with all the related content of it.';
 
-$LNG['ttl_background'] = 'Backgrounds';
-$LNG['sub_background'] = 'Pick a background for your profile';
+$LNG['ttl_background'] = 'Fondos';
+$LNG['sub_background'] = 'Seleccione un fondo para su perfil';
 
-$LNG['ttl_first_name'] = 'First Name';
-$LNG['sub_first_name'] = 'Enter your first name';
+$LNG['ttl_first_name'] = 'Primer nombre';
+$LNG['sub_first_name'] = 'Ingrese su primer nombre';
 
-$LNG['ttl_last_name'] = 'Last Name';
-$LNG['sub_last_name'] = 'Enter your last name';
+$LNG['ttl_last_name'] = 'Apellido';
+$LNG['sub_last_name'] = 'Ingrese su apellido';
 
-$LNG['ttl_email'] = 'Email';
-$LNG['sub_email'] = 'E-mail will not be displayed';
+$LNG['ttl_email'] = 'Correo electronico';
+$LNG['sub_email'] = 'El correo electronico no sera mostrado';
 
-$LNG['ttl_country'] = 'Country';
-$LNG['sub_country'] = 'Country you live in';
+$LNG['ttl_country'] = 'Pais';
+$LNG['sub_country'] = 'Pais en donde vive';
 
-$LNG['ttl_city'] = 'City';
-$LNG['sub_city'] = 'City you live in';
+$LNG['ttl_city'] = 'Ciudad';
+$LNG['sub_city'] = 'Ciudad en donde vive';
 
-$LNG['ttl_website'] = 'Website';
-$LNG['sub_website'] = 'If you have a blog, personal page, enter it';
+$LNG['ttl_website'] = 'Sitio web';
+$LNG['sub_website'] = 'Si usted posee un blog, pagina personal, ingresela';
 
-$LNG['ttl_profile'] = 'Profile';
-$LNG['sub_profile'] = 'Profile Privacy';
+$LNG['ttl_profile'] = 'Perfil';
+$LNG['sub_profile'] = 'Perfil de privacidad';
 
 $LNG['ttl_offline'] = 'Chat Status';
-$LNG['sub_offline'] = 'The visibility status for the Chat';
+$LNG['sub_offline'] = 'El estatus de visivilidad para el chat';
 
 $LNG['ttl_facebook'] = 'Facebook';
 $LNG['sub_facebook'] = 'Your Facebook profile ID.';
