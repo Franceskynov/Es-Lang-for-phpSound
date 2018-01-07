@@ -335,34 +335,34 @@ $LNG['ttl_offline'] = 'Chat Status';
 $LNG['sub_offline'] = 'El estatus de visivilidad para el chat';
 
 $LNG['ttl_facebook'] = 'Facebook';
-$LNG['sub_facebook'] = 'Your Facebook profile ID.';
+$LNG['sub_facebook'] = 'El identificador del perfil en Facebook.';
 
 $LNG['ttl_twitter'] = 'Twitter';
-$LNG['sub_twitter'] = 'Your Twitter profile ID.';
+$LNG['sub_twitter'] = 'El identificador del perfil en Twitter.';
 
 $LNG['ttl_google'] = 'Google+';
-$LNG['sub_google'] = 'Your Google+ profile ID.';
+$LNG['sub_google'] = 'El identificador del perfil en Google+.';
 
 $LNG['ttl_youtube'] = 'YouTube';
-$LNG['sub_youtube'] = 'Your YouTube profile ID.';
+$LNG['sub_youtube'] = 'El identificador del perfil en YouTube.';
 
 $LNG['ttl_soundcloud'] = 'SoundCloud';
-$LNG['sub_soundcloud'] = 'Your SoundCloud profile ID.';
+$LNG['sub_soundcloud'] = 'El identificador del perfil en SoundCloud.';
 
 $LNG['ttl_myspace'] = 'MySpace';
-$LNG['sub_myspace'] = 'Your MySpace profile ID.';
+$LNG['sub_myspace'] = 'El identificador del perfil en MySpace.';
 
 $LNG['ttl_tumblr'] = 'Tumblr';
-$LNG['sub_tumblr'] = 'Your Tumblr profile ID.';
+$LNG['sub_tumblr'] = 'El identificador del perfil en Tumblr.';
 
 $LNG['ttl_vimeo'] = 'Vimeo';
-$LNG['sub_vimeo'] = 'Your Vimeo profile ID.';
+$LNG['sub_vimeo'] = 'El identificador del perfil en Vimeo.';
 
 $LNG['ttl_lastfm'] = 'Last.fm';
-$LNG['sub_lastfm'] = 'Your Last.fm profile ID.';
+$LNG['sub_lastfm'] = 'El identificador del perfil en Last.fm.';
 
-$LNG['ttl_description'] = 'Description';
-$LNG['sub_description'] = 'Profile description (160 characters or less)';
+$LNG['ttl_description'] = 'Descripcion';
+$LNG['sub_description'] = 'Descripcion del perfil (160 characteres o menos)';
 
 $LNG['ttl_upload_avatar'] = 'Upload the selected profile image';
 $LNG['ttl_delete_avatar'] = 'Eliminar la actual imagen de perfil';
