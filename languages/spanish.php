@@ -856,17 +856,17 @@ $LNG['view_chat_notifications'] = 'View More Messages';
 $LNG['close_notifications'] = 'Close Notifications';
 $LNG['notifications_settings'] = 'Notifications Settings';
 $LNG['no_notifications'] = 'No notifications';
-$LNG['search_title'] = 'Search Results';
-$LNG['view_all_results'] = 'View All Results';
-$LNG['close_results'] = 'Close Results';
+$LNG['search_title'] = 'Buscar resultados';
+$LNG['view_all_results'] = 'Ver todos los resultados';
+$LNG['close_results'] = 'Cerrar los resultados';
 $LNG['no_results'] = 'No hay ningun resultado disponible. Intente otra busqueda.';
-$LNG['no_results_ttl'] = 'Search Results';
+$LNG['no_results_ttl'] = 'Buscar resultados';
 $LNG['search_for_users'] = 'Buscar por usuarios';
 $LNG['search_in_friends'] = 'Buscar en amigos';
 $LNG['follows'] = 'Seguidores';
 $LNG['followed_by'] = 'Seguido por';
 $LNG['people'] = 'personas';
-$LNG['join_date'] = 'Join Date';
+$LNG['join_date'] = 'Fecha en que se uni&oacute;';
 
 // PHP MODULES
 $LNG['openssl_error'] = 'T&uacute; deber&iacute;as  de habilitar la extensi&oacute;n de: <strong>OpenSSL</strong> en el servidor';
